@@ -55,10 +55,10 @@
   <em>If you've made it this far and want to get to know me better, you can find me here. (Don't forget to check out my projects!)</em>
 </p>
 
-<a href="https://link.chess.com/friend/UwVfFb">![Chess.com](https://img.shields.io/badge/Chess.com-%2381B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)</a>
-<a href="mailto:guilhermehiroshifujii@gmail.com"/>![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
-<a href="https://www.instagram.com/guiro.jp/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
-<a href="https://www.upwork.com/freelancers/guilhermehiroshifujii?mp_source=share">![Upwork](https://img.shields.io/badge/UpWork-%236FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white)</a>
+<a target="_blank" href="https://link.chess.com/friend/UwVfFb">![Chess.com](https://img.shields.io/badge/Chess.com-%2381B64C.svg?style=for-the-badge&logo=chessdotcom&logoColor=white)</a>
+<a target="_blank" href="mailto:guilhermehiroshifujii@gmail.com"/>![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)</a>
+<a target="_blank" href="https://www.instagram.com/guiro.jp/">![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)</a>
+<a target="_blank" href="https://www.upwork.com/freelancers/guilhermehiroshifujii?mp_source=share">![Upwork](https://img.shields.io/badge/UpWork-%236FDA44.svg?style=for-the-badge&logo=Upwork&logoColor=white)</a>
 
 <h3>⚡ Fun fact:</h3>
 <p>
