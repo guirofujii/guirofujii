@@ -5,10 +5,9 @@
 
 ---
 
-<img align="center" href="./katen_kyoukotsu_karamatsu_shinjuu">
-
 <p align="center" >
-  <em>"All those who give their all are also warriors."</em>
+<img  src="./katen_kyoukotsu_karamatsu_shinjuu.jpg" width="400px" alt="A black and white manga scene. A character wearing a straw hat and cape sits in a meditative pose in the center. He stands on dark branches that extend from below. Behind the character, there is a bright, smoky explosion that contrasts with the dark background of the night sky."></img> <br>
+<em>"All those who give their all are also warriors."</em>
 </p>
 
 ---
